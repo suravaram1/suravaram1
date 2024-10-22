@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @suravaram1
-- 👀 I’m interested in gaining cross-skilled knowledge 
+- 👀 I’m interested in gaining cross-skilled knowledge
 - 🌱 I’m currently learning dotnet
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 📫 How to reach me suravaramprasanna@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
